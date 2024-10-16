@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/Navbar.css'; // Import the external CSS file
+import '../css/NavBar.css'; // Import the external CSS file
 
 const scrollToSection = (sectionId) => {
   const section = document.querySelector(sectionId);
